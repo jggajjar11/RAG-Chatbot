@@ -48,8 +48,8 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/your-username/RAG-Chatbot.git
+cd RAG-Chatbot.git
 ```
 
 ### 2. Create a Virtual Environment
