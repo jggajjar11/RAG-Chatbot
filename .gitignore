@@ -1,0 +1,46 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Config (contains API keys)
+utils/config.py
+
+# Vector store data
+vectorstore/
+
+# Uploaded documents (user data)
+data/*.pdf
+data/*.docx
+data/*.txt
+!data/.gitkeep
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Byte-compiled
+*.pyc
